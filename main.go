@@ -29,7 +29,7 @@ type Frame struct {
 	Material Material
 }
 
-// Bike struct
+// Bike struct 2
 type Bike struct {
 	Color  string
 	Size   string
